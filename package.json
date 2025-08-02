@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nikhilpannaswar/smart-form-filler.git"
+    "url": "https://github.com/NikhilPannaswar/Smart-Form-Filler-Chrome-Extension.git"
   },
   "bugs": {
-    "url": "https://github.com/nikhilpannaswar/smart-form-filler/issues"
+    "url": "https://github.com/NikhilPannaswar/Smart-Form-Filler-Chrome-Extension/issues"
   },
-  "homepage": "https://github.com/nikhilpannaswar/smart-form-filler#readme",
+  "homepage": "https://github.com/NikhilPannaswar/Smart-Form-Filler-Chrome-Extension#readme",
   "engines": {
     "node": ">=16.0.0"
   },
