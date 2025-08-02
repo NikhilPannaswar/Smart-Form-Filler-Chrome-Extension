@@ -1,0 +1,36 @@
+{
+  "name": "smart-form-filler",
+  "version": "1.0.0",
+  "description": "Intelligent Chrome extension for automated form completion with privacy-first design",
+  "main": "background.js",
+  "scripts": {
+    "build": "echo 'No build process needed for this Chrome extension'",
+    "test": "echo 'Extension ready for manual testing'",
+    "package": "powershell -Command \"Compress-Archive -Path . -DestinationPath smart-form-filler-v1.0.zip -Force -Exclude '.git*', 'node_modules', '.DS_Store'\""
+  },
+  "keywords": [
+    "chrome-extension",
+    "form-filler",
+    "auto-complete",
+    "productivity",
+    "privacy",
+    "smart-forms",
+    "automation",
+    "accessibility"
+  ],
+  "author": "Nikhil Pannaswar <nikhilpannaswar2019@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikhilpannaswar/smart-form-filler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikhilpannaswar/smart-form-filler/issues"
+  },
+  "homepage": "https://github.com/nikhilpannaswar/smart-form-filler#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
